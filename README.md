@@ -1,7 +1,8 @@
 # 🖥️Basic Computing for Data Science
 > Lecture in Seoul National University in 2022 1st Semester
+> [강의URL🔗](https://www.youtube.com/playlist?list=PLehMmhTz8GwvCWrpf4LsX0dIRSGDMaP1O)
 
-This repository is a summary of Lecture, "Basic Computing for Data Science".[강의URL🔗](https://www.youtube.com/playlist?list=PLehMmhTz8GwvCWrpf4LsX0dIRSGDMaP1O)
+This repository is a summary of Lecture, "Basic Computing for Data Science".
 
 ## 📑Contents
 
