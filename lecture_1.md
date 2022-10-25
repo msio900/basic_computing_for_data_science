@@ -9,6 +9,8 @@
 
 ## What is Data Science?<a id="0"></a>[📑](#contents)
 
+> [강의 URL🎬](https://youtu.be/xyTAi70RReQ)
+
 **Data Science?**
 
 * A-B-C : AI/Algorithm - Bigdata - Computing + D : Domain -> Application : 데이터의 소스가 발생
@@ -31,6 +33,8 @@
 * 프로그램은 특정한 language -> `Zero Ambiguity`를 가짐
 
 ## Abstraction<a id="1"></a>[📑](#contents)
+
+> [강의 URL🎬](https://youtu.be/xyTAi70RReQ)
 
 **How does a computer run a `Python` program?**
 
